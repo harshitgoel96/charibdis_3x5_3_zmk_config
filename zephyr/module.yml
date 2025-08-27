@@ -1,3 +1,4 @@
+name: charybdis_ble
 build:
   settings:
     board_root: .

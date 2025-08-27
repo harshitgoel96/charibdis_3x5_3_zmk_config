@@ -1,0 +1,17 @@
+file_format: "1"
+id: charybdis
+name: Charybdis
+type: shield
+url: https://github.com/Bastardkb/Charybdis/
+requires: [seeeduino_xiao_ble]
+features:
+  - Keys
+  - QWERTY
+  - Colemak DH
+  - Mouse keys pointer
+  - Dongle/Bluetooth/USB
+  - studio 
+siblings:
+  - charybdis_left
+  - charybdis_right
+  - charybdis_dongle
